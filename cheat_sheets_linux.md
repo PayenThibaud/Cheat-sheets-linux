@@ -62,5 +62,10 @@ Visualiser les premières lignes d'un fichier : head (nom)
 Visualiser les dernières lignes d'un fichier : head -n (nombre) (nom)  
 comparer le texte de deux fichiers : diff (nom du fichier 1) (fichier 2)  
 ajouter des données à un fichier : echo (données) >(nom)  
+  
+## Installation  
+  
+wget (lien)  
+sudo dpkg -i (lien)  
 
 
